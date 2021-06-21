@@ -7,6 +7,7 @@ var plus = (a, b) => {
   c = a + b;
   return c;
 };
+
 exports.hello = console.log("hello world");
 module.exports.hello2 = console.log("hello world 2");
 
